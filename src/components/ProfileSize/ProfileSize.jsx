@@ -1,6 +1,6 @@
 import React from 'react'
 import LogoSearch from '../../components/LogoSearch/LogoSearch'
-import ProfileCard from '../../components/ProfileCard.jsx/ProfileCard';
+import ProfileCard from '../../components/ProfileCard/ProfileCard';
 import FollowersCard from '../../components/FollowCard/FollowersCard'
 import './ProfileSize.css'
 const ProfileSize = ()=>

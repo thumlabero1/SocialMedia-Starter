@@ -16,6 +16,10 @@ const RightSize = ()=>{
            </div>
 
            <TrendCard/>
+
+           <button className="button r-button">
+            Share
+           </button>
        </div>
     )
 }
